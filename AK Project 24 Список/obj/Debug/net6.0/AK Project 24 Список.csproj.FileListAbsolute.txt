@@ -1,0 +1,15 @@
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\obj\Debug\net6.0\AK Project 24 Список.csproj.AssemblyReference.cache
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\obj\Debug\net6.0\AK Project 24 Список.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\obj\Debug\net6.0\AK Project 24 Список.AssemblyInfoInputs.cache
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\obj\Debug\net6.0\AK Project 24 Список.AssemblyInfo.cs
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\obj\Debug\net6.0\AK Project 24 Список.csproj.CoreCompileInputs.cache
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\bin\Debug\net6.0\AK Project 24 Список.exe
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\bin\Debug\net6.0\AK Project 24 Список.deps.json
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\bin\Debug\net6.0\AK Project 24 Список.runtimeconfig.json
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\bin\Debug\net6.0\AK Project 24 Список.dll
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\bin\Debug\net6.0\AK Project 24 Список.pdb
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\obj\Debug\net6.0\AK Project 24 Список.dll
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\obj\Debug\net6.0\refint\AK Project 24 Список.dll
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\obj\Debug\net6.0\AK Project 24 Список.pdb
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\obj\Debug\net6.0\AK Project 24 Список.genruntimeconfig.cache
+C:\Users\Pugalo\Documents\C#\AK Project 24 Список\AK Project 24 Список\obj\Debug\net6.0\ref\AK Project 24 Список.dll

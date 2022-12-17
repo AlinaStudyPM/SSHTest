@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AK Project 24 Список/1.0.0": {
+        "runtime": {
+          "AK Project 24 Список.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AK Project 24 Список/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
